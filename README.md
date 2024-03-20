@@ -5,8 +5,6 @@
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devLGN&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLGN&hide_progress=true)
-
 ### Linguagens que mais utilizo: 
 <div style="display: inline_block"><br/>
   <img oling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,4 +17,4 @@
   <img oling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-### Sou apaixonado pela programação e desenvolvimento de projetos, buscando sempre novos desafios para superar e melhorar minhas habilidades!
+### Sou apaixonado pela programação e desenvolvimento de projetos, <br/> buscando sempre novos desafios para superar e melhorar minhas habilidades!
